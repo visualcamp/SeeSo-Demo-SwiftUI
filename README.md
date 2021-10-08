@@ -2,9 +2,9 @@
     <img src="/image/seeso_logo.png">
 </p>
 <div align="center">
-    <h1>SeeSo iOS SwiftUI Demo</h1>
+    <h1>SeeSo Demo SwiftUI </h1>
     <a href="https://github.com/visualcamp/seeso-sample-ios/releases" alt="release">
-        <img src="https://img.shields.io/badge/version-2.4.0-blue" />
+        <img src="https://img.shields.io/badge/version-2.4.3-blue" />
     </a>
 </div>
 
