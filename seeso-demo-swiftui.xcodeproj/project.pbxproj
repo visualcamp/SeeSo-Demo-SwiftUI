@@ -7,16 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		63B0C358283DE67E00ACF4B5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B0C357283DE67E00ACF4B5 /* ContentView.swift */; };
 		63FB637827100D7E005B72BA /* seeso_demo_swiftuiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FB637727100D7E005B72BA /* seeso_demo_swiftuiApp.swift */; };
 		63FB637C27100D82005B72BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63FB637B27100D82005B72BA /* Assets.xcassets */; };
 		63FB637F27100D82005B72BA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63FB637E27100D82005B72BA /* Preview Assets.xcassets */; };
 		63FB638827100DC8005B72BA /* SeeSoManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FB638527100DC8005B72BA /* SeeSoManager.swift */; };
 		63FB638927100DC8005B72BA /* Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FB638627100DC8005B72BA /* Words.swift */; };
 		63FB638A27100DC8005B72BA /* GazeTrackerState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FB638727100DC8005B72BA /* GazeTrackerState.swift */; };
-		63FB638C27100DF3005B72BA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FB638B27100DF3005B72BA /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		63B0C357283DE67E00ACF4B5 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		63FB637427100D7E005B72BA /* seeso-demo-swiftui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "seeso-demo-swiftui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63FB637727100D7E005B72BA /* seeso_demo_swiftuiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seeso_demo_swiftuiApp.swift; sourceTree = "<group>"; };
 		63FB637B27100D82005B72BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -24,7 +25,6 @@
 		63FB638527100DC8005B72BA /* SeeSoManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SeeSoManager.swift; sourceTree = "<group>"; };
 		63FB638627100DC8005B72BA /* Words.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Words.swift; sourceTree = "<group>"; };
 		63FB638727100DC8005B72BA /* GazeTrackerState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GazeTrackerState.swift; sourceTree = "<group>"; };
-		63FB638B27100DF3005B72BA /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = "../../../../../../Downloads/SeeSo-Demo-SwiftUI-master/SeeSoDemo/ContentView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +57,8 @@
 		63FB637627100D7E005B72BA /* seeso-demo-swiftui */ = {
 			isa = PBXGroup;
 			children = (
+				63B0C357283DE67E00ACF4B5 /* ContentView.swift */,
 				63FB637727100D7E005B72BA /* seeso_demo_swiftuiApp.swift */,
-				63FB638B27100DF3005B72BA /* ContentView.swift */,
 				63FB638727100DC8005B72BA /* GazeTrackerState.swift */,
 				63FB638527100DC8005B72BA /* SeeSoManager.swift */,
 				63FB638627100DC8005B72BA /* Words.swift */,
@@ -147,7 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				63FB638927100DC8005B72BA /* Words.swift in Sources */,
-				63FB638C27100DF3005B72BA /* ContentView.swift in Sources */,
+				63B0C358283DE67E00ACF4B5 /* ContentView.swift in Sources */,
 				63FB638827100DC8005B72BA /* SeeSoManager.swift in Sources */,
 				63FB638A27100DC8005B72BA /* GazeTrackerState.swift in Sources */,
 				63FB637827100D7E005B72BA /* seeso_demo_swiftuiApp.swift in Sources */,
